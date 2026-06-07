@@ -1,9 +1,9 @@
 # homebrew-tap
 
-Homebrew tap for [secrets-vault](https://github.com/skorik94-glitch/secrets-vault).
+Homebrew tap for [hush](https://github.com/skorik94-glitch/hush).
 
 ```bash
-brew install skorik94-glitch/tap/secrets-vault
+brew install skorik94-glitch/tap/hush
 # then:
-secrets-vault doctor
+hush doctor
 ```
